@@ -1,0 +1,10 @@
+C:\Users\ibrah\Desktop\Rashed_CallAPI\DAL\bin\Release\DAL.dll.config
+C:\Users\ibrah\Desktop\Rashed_CallAPI\DAL\bin\Release\DAL.dll
+C:\Users\ibrah\Desktop\Rashed_CallAPI\DAL\bin\Release\DAL.pdb
+C:\Users\ibrah\Desktop\Rashed_CallAPI\DAL\bin\Release\EntityFramework.dll
+C:\Users\ibrah\Desktop\Rashed_CallAPI\DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\ibrah\Desktop\Rashed_CallAPI\DAL\bin\Release\EntityFramework.xml
+C:\Users\ibrah\Desktop\Rashed_CallAPI\DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\ibrah\Desktop\Rashed_CallAPI\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\ibrah\Desktop\Rashed_CallAPI\DAL\obj\Release\DAL.dll
+C:\Users\ibrah\Desktop\Rashed_CallAPI\DAL\obj\Release\DAL.pdb

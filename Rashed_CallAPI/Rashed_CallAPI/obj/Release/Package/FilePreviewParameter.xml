@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="rashedcallrequestapi" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\ibrah\\Desktop\\Rashed_CallAPI\\Rashed_CallAPI\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\ibrah\\Desktop\\Rashed_CallAPI\\Rashed_CallAPI\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="RashedEntities-Web.config Connection String" description="" value="metadata=res://*/Model1.csdl|res://*/Model1.ssdl|res://*/Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;Data Source=213.19.161.195;Initial Catalog=test;User ID=sibanliveapp;Password=sibanliveapp;MultipleActiveResultSets=False&quot;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\ibrah\\Desktop\\Rashed_CallAPI\\Rashed_CallAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='RashedEntities']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,10 @@
+C:\Users\ibrah\Desktop\Rashed_CallAPI\DSL\bin\Release\DSL.dll
+C:\Users\ibrah\Desktop\Rashed_CallAPI\DSL\bin\Release\DSL.pdb
+C:\Users\ibrah\Desktop\Rashed_CallAPI\DSL\bin\Release\DAL.dll
+C:\Users\ibrah\Desktop\Rashed_CallAPI\DSL\bin\Release\Entities.dll
+C:\Users\ibrah\Desktop\Rashed_CallAPI\DSL\bin\Release\DAL.pdb
+C:\Users\ibrah\Desktop\Rashed_CallAPI\DSL\bin\Release\Entities.pdb
+C:\Users\ibrah\Desktop\Rashed_CallAPI\DSL\bin\Release\EntityFramework.xml
+C:\Users\ibrah\Desktop\Rashed_CallAPI\DSL\obj\Release\DSL.csprojResolveAssemblyReference.cache
+C:\Users\ibrah\Desktop\Rashed_CallAPI\DSL\obj\Release\DSL.dll
+C:\Users\ibrah\Desktop\Rashed_CallAPI\DSL\obj\Release\DSL.pdb

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="RashedEntities-Web.config Connection String" description="RashedEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Model1.csdl|res://*/Model1.ssdl|res://*/Model1.msl;       provider=System.Data.SqlClient;       provider connection string=&quot;Data Source=213.19.161.195;       Initial Catalog=test;User ID=sibanliveapp;Password=sibanliveapp; MultipleActiveResultSets=False&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\ibrah\\Desktop\\Rashed_CallAPI\\Rashed_CallAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='RashedEntities']/@connectionString" />
+  </parameter>
+</parameters>

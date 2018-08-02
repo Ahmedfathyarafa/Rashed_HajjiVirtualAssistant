@@ -1,0 +1,4 @@
+C:\Users\ibrah\Desktop\Rashed_CallAPI\Entities\bin\Release\Entities.dll
+C:\Users\ibrah\Desktop\Rashed_CallAPI\Entities\bin\Release\Entities.pdb
+C:\Users\ibrah\Desktop\Rashed_CallAPI\Entities\obj\Release\Entities.dll
+C:\Users\ibrah\Desktop\Rashed_CallAPI\Entities\obj\Release\Entities.pdb
